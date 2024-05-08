@@ -1,2 +1,5 @@
 manim
 manim_physics
+manim-data-structures
+git-sim
+manim-CAD_Drawing_Utils
